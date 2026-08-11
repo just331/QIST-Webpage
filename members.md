@@ -34,7 +34,7 @@
     <td><img src="assets/imgs/Dr_Yuanlin_Zhang.png" alt="Jane Doe headshot" width="120"></td>
     <td>
       <strong>Dr. Yuanlin Zhang</strong><br>
-      Project Manager<br>
+      Computer Science<br>
       <a href="mailto:y.zhang@ttu.edu">y.zhang@ttu.edu</a><br>
     </td>
   </tr>
