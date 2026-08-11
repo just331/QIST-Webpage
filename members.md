@@ -6,9 +6,6 @@
       <strong>Mahamadu Duut</strong>
       <br> Graduate Student<br>
     </td>
-
-  </tr>
-  <tr>
     <td><img src="assets/imgs/Emmanuel_Ebom.png" alt="Emmanuel Ebom headshot" width="120"></td>
     <td>
       <strong>Emmanuel Ebom</strong>
@@ -22,8 +19,6 @@
       <br>Physics<br>
       <a href="mailto:Beth.Thacker@ttu.edu">Beth.Thacker@ttu.edu</a><br>
     </td>
-  </tr>
-  <tr>
     <td><img src="assets/imgs/Dr_Jianlan_Wang.png" alt="Dr. Wang headshot" width="120"></td>
     <td>
       <strong>Dr. Jianlan Wang</strong><br>
